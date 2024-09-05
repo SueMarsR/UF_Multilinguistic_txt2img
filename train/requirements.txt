@@ -1,0 +1,22 @@
+tqdm
+scipy
+matplotlib
+pandas
+tensorboard
+# byted-dataloader
+transformers
+# bytedtos
+opencv-python-headless
+progressbar
+datasets
+autopep8
+pylint
+jupyterlab
+accelerate
+xformers
+blank
+clip-interrogator
+# git+https://github.com/huggingface/diffusers
+nltk
+pyiqa
+easydict
